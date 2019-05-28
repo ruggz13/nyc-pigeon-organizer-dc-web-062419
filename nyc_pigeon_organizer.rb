@@ -6,5 +6,4 @@ def nyc_pigeon_organizer(pigeon_data)
     options.each do |option, pigeons|
     binding.pry
   end
-  end
 end
