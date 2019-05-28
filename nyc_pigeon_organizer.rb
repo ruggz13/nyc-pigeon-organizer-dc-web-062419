@@ -8,8 +8,8 @@ def nyc_pigeon_organizer(pigeon_data)
       pigeons.each do |pigeon|
         #binding.pry
         pigeon_list[pigeon] ||= {}
-        binding.pry
         pigeon_list[pigeon][attribute] ||= []
+        binding.pry
         pigeon_list[pigeon][attribute] << option.to_s
       end
     end
