@@ -1,3 +1,3 @@
-def pigeon_organizer(pigeons)
+def nyc_pigeon_organizer(pigeons)
   
 end
